@@ -1,0 +1,3 @@
+,Version,Costumer_name,Workspace_id,Name_of_device,Type,Mac_Address,Date,Wifi_name,Wifi_backup_name,Mqtt_server,Mqtt_enable,Mqtt_retain,Mqtt_user,Mqtt_update_period,Auto_on,Wifi status,SPECIAL remark
+0,v.0.1,nne,22,shellyplug-s-4022D881C172,SHPLG-S,4022D881C172,2023-03-01T15:04:52.652917Z,NNETest1,NNEHotspotTest,35.206.187.30:1883,True,True,,300,120.0,Primary wifi not found,OK
+1,v.0.1,nne,22,shellyplug-s-C8C9A3A50B8F,SHPLG-S,C8C9A3A50B8F,2023-03-01T15:04:59.780728Z,NNETest1,NNEHotspotTest,35.206.187.30:1883,True,True,,300,120.0,Primary wifi not found,OK
